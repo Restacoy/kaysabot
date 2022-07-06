@@ -1,12 +1,12 @@
 {
-    "ownerNumber": "6285921969852@s.whatsapp.net",
-    "ownerName": "Fadly ID",
-    "botName": "Kaysa Bot",
-    "footer": "Fadly ID",
+    "ownerNumber": "6281328608503@s.whatsapp.net",
+    "ownerName": "Resta Femes",
+    "botName": "Resta Bot",
+    "footer": "Resta",
     "sessionName": "kayy-md",
     "pathimg": "./media/logo.jpg",
-    "lolkey": "Atakbotz",
-    "instagram": "https://instagram.com/iamfadlyid_",
+    "lolkey": "KaysaS",
+    "instagram": "https://instagram.com/resta.femes",
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
@@ -15,6 +15,6 @@
     },
     "sticker": {
         "packname": "Created By",
-        "author": "Fadly ID"
+        "author": "Resta Femes"
     }
 }
